@@ -75,6 +75,7 @@ TEMPLATES = [
 
 WSGI_APPLICATION = 'tango_with_django_project.wsgi.application'
 
+TIME_ZONE = "GMT"
 
 # Database
 # https://docs.djangoproject.com/en/2.2/ref/settings/#databases
